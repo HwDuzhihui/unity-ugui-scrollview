@@ -1,3 +1,3 @@
 # unity-ugui-scrollview
 ugui-example
-![image](unity-ugui-scrollview/UGUIScrollview/Gif/scrollview.gif)
+![image](https://github.com/akukua/unity-ugui-scrollview/UGUIScrollview/Gif/scrollview.gif)
